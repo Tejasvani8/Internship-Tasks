@@ -1,4 +1,4 @@
-This repository contains the tasks that I completed during my Internship at 
+This repository contains the tasks that I've completed during my Internships at 
   
   - The Sparks Foundation
   
