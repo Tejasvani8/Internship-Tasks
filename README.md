@@ -10,4 +10,9 @@ This repository contains the tasks that I've completed during my Internships at
   - Regex Software Services 
   
 
+
+  - Mlzoomcamp by Alexey Grigorev(September 2021 – December 2021)
+     
+     Introduction to Machine Learning 
+   
     
