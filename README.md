@@ -15,6 +15,9 @@ This repository contains the tasks that I've completed during my Internships/Tra
 
   - Mlzoomcamp by Alexey Grigorev(September 2021 – December 2021)
      
-     Introduction to Machine Learning 
+     - Learning Modules & Homework topics 
+     
+                - Introduction to Machine Learning 
+                - Machine Learning for Regression : Airbnb Price Prediction 
    
     
