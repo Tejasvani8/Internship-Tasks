@@ -17,7 +17,7 @@ This repository contains the tasks that I've completed during my Internships/Tra
      
      - Learning Modules & Homework topics 
      
-                - Introduction to Machine Learning 
-                - Machine Learning for Regression : Airbnb Price Prediction 
+           - Introduction to Machine Learning 
+           - Machine Learning for Regression : Airbnb Price Prediction 
    
     
