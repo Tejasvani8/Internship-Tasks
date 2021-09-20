@@ -1,6 +1,6 @@
 <img align="right" width="200" height="200" src="https://github.com/Tejasvani8/Internship-Tasks/blob/main/task.jpg">
 
-This repository contains the tasks that I've completed during my Internships at 
+This repository contains the tasks that I've completed during my Internships/Trainings at 
 
   - The Sparks Foundation
   
