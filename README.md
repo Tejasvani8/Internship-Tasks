@@ -6,10 +6,15 @@ This repository contains the tasks that I've completed during my Internships/Tra
   
      Internship Category - Data Science and Business Analytics <br />
      Internship Duration - 1 Month ( May-2021 ) <br />
-     Internship Type - Work from Home/Remote
+     Internship Type - Remote
   
   
   - Regex Software Services 
+
+      
+     Internship Category - Data Science and Machine Learning <br />
+     Internship Duration - 3 Month ( August 2021 - Present ) <br />
+     Internship Type - Remote
   
 
 
@@ -17,7 +22,8 @@ This repository contains the tasks that I've completed during my Internships/Tra
      
      - Learning Modules & Homework topics 
      
-           - Introduction to Machine Learning 
-           - Machine Learning for Regression : Airbnb Price Prediction 
+           * Homework 1:Introduction to Machine Learning 
+           * Homework 2:Machine Learning for Regression : Airbnb Price Prediction 
+           * Homework 3:Machine Learning for Classification
    
     
